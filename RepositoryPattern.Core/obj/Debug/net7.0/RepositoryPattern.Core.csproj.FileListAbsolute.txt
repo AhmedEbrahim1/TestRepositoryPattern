@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.deps.json
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.dll
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.pdb
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.AssemblyInfo.cs
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.dll
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\refint\RepositoryPattern.Core.dll
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.pdb
+C:\Users\Dell\source\repos\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\ref\RepositoryPattern.Core.dll
